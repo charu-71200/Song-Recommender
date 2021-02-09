@@ -9,4 +9,4 @@ Another approach can be, we can train a personalized_model then we can recommend
 
 ## Quantative comparison between the models
 
-Then I compared the model performance of both popularity and personalized model
+Then I compared the model performance of both popularity_model and personalized_model
