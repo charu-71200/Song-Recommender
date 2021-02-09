@@ -5,7 +5,7 @@ Simplest approach is popularity-based recommender in which we first train a popu
 
 ## Build a song recommender with personalization
 
-Another approach can be, we can train a personalized_model then we can recommend the user similar songs.
+Another approach can be, we can train a personalized_model then we can recommend the user similar artist's songs may be.
 
 ## Quantative comparison between the models
 
